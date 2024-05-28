@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "SeanTran",
     "description": "A Progressive Web App for Lab8",
-    "start_url": "/",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#4CAF50",
